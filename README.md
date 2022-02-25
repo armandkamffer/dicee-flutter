@@ -32,4 +32,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ## End result video
 
-![App video]('docs/app-video.mov')
+![App video](docs/app-video.mov)
